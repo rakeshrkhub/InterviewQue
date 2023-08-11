@@ -21,7 +21,6 @@ public class First {
         for(int i=0;i<=99;i++){
             if(isPrime(i)==true){
                 System.out.print(i+" ");
-
             }
         }
     }
